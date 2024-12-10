@@ -1,10 +1,14 @@
 import './App.css'
+import Button from './component/Button'
+import ChatPrevBox from './component/ChatPrevBox'
+import Chat from './pages/Chat'
 
 function App() {
 
   return (
     <>
-      <h1>Hello , Chatapp!</h1>
+      <Chat/>
+      {/* <Button/> */}
     </>
   )
 }
