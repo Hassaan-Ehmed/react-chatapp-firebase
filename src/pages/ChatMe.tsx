@@ -1,7 +1,7 @@
 import React from 'react'
 import StructureBox from '../component/StructureBox'
 
-function Chat() {
+function ChatMe() {
   return (
     <>
  <StructureBox/>
@@ -9,4 +9,4 @@ function Chat() {
   )
 }
 
-export default Chat
+export default ChatMe
